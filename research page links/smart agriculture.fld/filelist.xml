@@ -1,11 +1,9 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../edge%20computing.html"/>
+ <o:MainFile HRef="../smart%20agriculture.html"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
- <o:File HRef="image001.emz"/>
+ <o:File HRef="image001.png"/>
  <o:File HRef="image002.jpg"/>
- <o:File HRef="image003.emz"/>
- <o:File HRef="image004.jpg"/>
  <o:File HRef="header.html"/>
  <o:File HRef="filelist.xml"/>
 </xml>
